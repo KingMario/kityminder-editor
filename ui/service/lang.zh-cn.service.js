@@ -181,6 +181,8 @@ angular.module('kityminderEditor')
 
 					'expandtoleaf': '展开',
 
+					'export': '导出',
+
 					'back': '返回',
 
 					'undo': '撤销 (Ctrl + Z)',
@@ -189,7 +191,8 @@ angular.module('kityminderEditor')
 					'tabs': {
 						'idea': '思路',
 						'appearence': '外观',
-						'view': '视图'
+						'view': '视图',
+						'export': '导出'
 					},
 
 					'quickvisit': {
